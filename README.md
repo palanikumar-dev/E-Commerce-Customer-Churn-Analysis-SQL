@@ -1,4 +1,4 @@
-📊 E-Commerce Customer Churn Analysis – Project Report
+**📊 E-Commerce Customer Churn Analysis – Project Report**
 
 🔍 **Project Objective**
 
